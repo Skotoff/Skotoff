@@ -1,4 +1,4 @@
-## About me
+## Hi there, I'm Sergei Kotov
 
 I've been programming since 2021.
 
